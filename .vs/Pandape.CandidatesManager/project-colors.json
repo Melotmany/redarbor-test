@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1de22528-b7b2-4506-bec8-314b170c7770": {
+      "ProjectGuid": "1de22528-b7b2-4506-bec8-314b170c7770",
+      "DisplayName": "Pandape.CandidatesManager.WebUI",
+      "ColorIndex": 0
+    },
+    "563602c5-92de-4a66-b05d-e47710b8526b": {
+      "ProjectGuid": "563602c5-92de-4a66-b05d-e47710b8526b",
+      "DisplayName": "Pandape.CandidatesManager.Infrastructure",
+      "ColorIndex": 1
+    },
+    "273fb467-1920-4431-89fa-4795b750f0d8": {
+      "ProjectGuid": "273fb467-1920-4431-89fa-4795b750f0d8",
+      "DisplayName": "Pandape.CandidatesManager.Application",
+      "ColorIndex": 2
+    },
+    "1520efa4-8e08-48da-9355-3859fa2a6daf": {
+      "ProjectGuid": "1520efa4-8e08-48da-9355-3859fa2a6daf",
+      "DisplayName": "Pandape.CandidatesManager.Domain",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e6a4cdca-fba1-41e7-aba1-af7ff82e6762": {
+      "ProjectGuid": "e6a4cdca-fba1-41e7-aba1-af7ff82e6762",
+      "DisplayName": "Pandape.CandidatesManager.Services",
+      "ColorIndex": 4
+    },
+    "de66afdc-afe8-4e72-bc04-94c475186225": {
+      "ProjectGuid": "de66afdc-afe8-4e72-bc04-94c475186225",
+      "DisplayName": "Pandape.CandidatesManager.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

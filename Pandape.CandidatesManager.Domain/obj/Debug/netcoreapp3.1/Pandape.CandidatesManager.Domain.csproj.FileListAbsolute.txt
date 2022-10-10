@@ -1,0 +1,10 @@
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.deps.json
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.pdb
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.csproj.AssemblyReference.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.AssemblyInfo.cs
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Domain\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.pdb

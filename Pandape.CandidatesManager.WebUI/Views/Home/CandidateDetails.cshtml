@@ -1,0 +1,99 @@
+﻿@using Pandape.CandidatesManager.Domain.Entities
+@model Candidate
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form>
+                <input type="hidden" asp-for="IdCandidate"/>
+
+                <div class="form-inline">
+                        <h2 class="h2">@Model.Name @Model.Surename</h2>
+                        <a asp-action="EditCandidate" asp-route-id="@Model.IdCandidate" class="btn btn-primary">Edit</a>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Birthdate">Birth date:</label>
+                    <label>@Model.Birthdate.ToString("dd/MM/yyyy")</label>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email">Email: </label>
+                    <label>@Model.Email</label>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="InsertDate">Created at: </label>
+                    <label>@Model.InsertDate</label>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="InsertDate">Updated at: </label>
+                    <label>@Model.ModifyDate</label>
+                </div>
+
+                
+
+                <div class="form-inline">
+                        <h2 class="h2">Experiences</h2>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <a asp-action="NewCandidateExperience" asp-route-id="@Model.IdCandidate"  class="btn btn-outline-success float-right">New Experience</a>
+                    </div>
+                </div>
+                <div class="row-flex">
+                    @if(Model.Experiences.Count == 0){
+                        <p>No experiences found!</p>
+                    }else{
+                        <table class="table">
+                            <thead class="bg-dark text-white">
+                                <tr>
+                                    <th>Company</th>
+                                    <th>Job</th>
+                                    <th>Salary</th>
+                                    <th>Begin date</th>
+                                    <th>End date</th>
+                                    <th>Created at</th>
+                                    <th>Updated at</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var e in Model.Experiences)
+                                {
+                                    <tr>
+                                        <td>@e.Company</td>
+                                        <td>@e.Job</td>
+                                        <td>@e.Salary</td>
+                                        <td>@e.BeginDate.ToString("dd/MM/yyyy")</td>
+                                        @if (e.EndDate.HasValue)
+                                        {
+                                            <td>@e.EndDate.Value.ToString("dd/MM/yyyy")</td>
+                                        }
+                                        else
+                                        {
+                                            <td></td>    
+                                        }
+                                        <td>@e.InsertDate</td>
+                                        <td>@e.ModifyDate</td>
+                                        <td align="center">
+                                            <a asp-action="EditCandidateExperience" asp-route-id="@e.IdCandidateExperience" class="btn btn-outline-primary">Edit</a>
+                                            @*<a asp-action="EditCandidate" asp-route-id="@e.IdCandidate" class="btn btn-outline-primary">Details</a>*@
+                                            <a asp-action="DeleteCandidateExperience" 
+                                                asp-route-id="@e.IdCandidateExperience" 
+                                                class="btn btn-outline-danger"
+                                                onclick="return confirm('Are you sure to remove this experience?')">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+
+                <a asp-action="Index" class="btn btn-outline-primary btn-block">Back to list</a>
+            </form>
+        </div>
+    </div>
+</div>

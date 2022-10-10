@@ -1,0 +1,15 @@
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.deps.json
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.pdb
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Infrastructure.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.pdb
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Infrastructure.pdb
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.csproj.AssemblyReference.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.AssemblyInfoInputs.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.AssemblyInfo.cs
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.csproj.CopyComplete
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Services\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Services.pdb

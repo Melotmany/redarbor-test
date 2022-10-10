@@ -1,0 +1,13 @@
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.deps.json
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.pdb
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\bin\Debug\netcoreapp3.1\Pandape.CandidatesManager.Domain.pdb
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.csproj.AssemblyReference.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.AssemblyInfoInputs.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.AssemblyInfo.cs
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.csproj.CopyComplete
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.dll
+C:\Users\Melotmany2\Desktop\RedArbor\Pandape.CandidatesManager\Pandape.CandidatesManager.Application\obj\Debug\netcoreapp3.1\Pandape.CandidatesManager.Application.pdb

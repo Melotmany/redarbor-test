@@ -1,0 +1,38 @@
+﻿@using Pandape.CandidatesManager.Domain.Entities
+@model Candidate
+
+<div class="container">
+    <h2 class="text-center">Edit Candidate</h2>
+    <div class="row">
+        <div class="col-6 offset-3">
+            <form asp-action="UpdateCandidate" method="POST">
+                <input type="hidden" asp-for="IdCandidate"/>
+                <input type="hidden" asp-for="InsertDate"/>
+                <input type="hidden" asp-for="ModifyDate"/>
+
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <input type="text" asp-for="Name" class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Surename"></label>
+                    <input type="text" asp-for="Surename" class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Birthdate">Birth date</label>
+                    <input type="date" asp-for="Birthdate" class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input type="text" asp-for="Email" class="form-control"/>
+                </div>
+
+                <input type="submit" class="btn btn-outline-primary btn-block" value="Update"/>
+                <a asp-action="CandidateDetails" asp-route-id="@Model.IdCandidate" class="btn btn-outline-danger btn-block">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>

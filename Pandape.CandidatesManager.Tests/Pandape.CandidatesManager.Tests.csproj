@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="FluentAssertions" Version="6.7.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="3.1.29" />
+    <PackageReference Include="Moq" Version="4.18.2" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pandape.CandidatesManager.Application\Pandape.CandidatesManager.Application.csproj" />
+    <ProjectReference Include="..\Pandape.CandidatesManager.Infrastructure\Pandape.CandidatesManager.Infrastructure.csproj" />
+    <ProjectReference Include="..\Pandape.CandidatesManager.Services\Pandape.CandidatesManager.Services.csproj" />
+    <ProjectReference Include="..\Pandape.CandidatesManager.WebUI\Pandape.CandidatesManager.WebUI.csproj" />
+  </ItemGroup>
+
+</Project>
